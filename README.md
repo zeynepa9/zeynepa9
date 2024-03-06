@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zeynep
 ==============================================================================================================================
 
-I'm an aspiring Frontend Developer. After working as a QA engineer for almost 4 years, I decided to follow my passion for coding and started learning web development. I'm excited for this new chapter in my life and looking forward to what this career will bring. I'm already 4 months in, and I'm loving it!
+I'm an aspiring Frontend Developer. After working as a QA engineer for almost 4 years, I decided to follow my passion for coding and started learning web development. I'm excited for this new chapter in my life and looking forward to what this career will bring. I'm already 5 months in, and I'm loving it!
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [zeynepakyolhpal@gmail.com](mailto:zeynepakyolhpal@gmail.com)
